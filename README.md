@@ -1,2 +1,2 @@
-# Khan_Outcomes_DDI_Nirmatrelvir-Ritonavir
-Khan et al-Drug–Drug Interactions and Short-Term Outcomes in Long-Term Care Residents on Nirmatrelvir/Ritonavir
+# Khan_Potential_Nirmatrelvir_Ritonavir_Harms_Nursing_Homes
+Khan et al-Potential Nirmatrelvir/Ritonavir Interaction Harms in Nursing Homes
